@@ -1,0 +1,5 @@
+fox	1400
+lazy	1400
+quick	700
+brown	1600
+jumps	700

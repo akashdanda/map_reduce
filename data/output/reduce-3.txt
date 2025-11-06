@@ -1,0 +1,4 @@
+the	1000
+quick	500
+over	500
+dog	900

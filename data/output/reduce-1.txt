@@ -1,0 +1,5 @@
+brown	500
+the	1400
+fox	700
+over	1600
+quick	900

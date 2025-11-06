@@ -1,0 +1,4 @@
+jumps	1400
+dog	1200
+lazy	700
+the	1800
